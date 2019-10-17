@@ -177,7 +177,13 @@ gxp.plugins.LayerTree = Ext.extend(gxp.plugins.Tool, {
             plugin = this,
             exclusive;
 
+        var groups_set = new Set()
         for (var group = 0, max=this.groups.length; group < max; group++) {
+            if (groups_set.has(this.groups[group].group)) {
+                continue;
+            } else {
+                groups_set.add(this.groups[group].group);
+            }
             var newFolder = this.createCategoryFolder(this.groups[group]);
             //for (var group in this.groups) {
 
