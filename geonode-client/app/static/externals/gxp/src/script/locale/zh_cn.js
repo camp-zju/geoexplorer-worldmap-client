@@ -31,6 +31,11 @@ GeoExt.Lang.add("zh-cn", {
         labeledAerialTitle: "Bing Aerial With Labels"
     },
 
+    "gxp.plugins.BingChineseSource.prototype": {
+        title: "中国Bing图层",
+        roadTitle: "中国Bing路网"
+    },
+
     "gxp.plugins.FeatureEditor.prototype": {
         splitButtonText: "编辑",
         createFeatureActionText: "创建",

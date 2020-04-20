@@ -24,6 +24,11 @@ GeoExt.Lang.add("fr", {
         labeledAerialTitle: "Bing images aériennes avec étiquettes"
     },    
 
+    "gxp.plugins.BingChineseSource.prototype": {
+        title: "Chinese Bing Layers",
+        roadTitle: "Chinese Bing Roads"
+    },
+
     "gxp.plugins.FeatureEditor.prototype": {
         splitButtonText: "Rédiger",
         createFeatureActionText: "Créer",

@@ -23,6 +23,11 @@ GeoExt.Lang.add("nl", {
         labeledAerialTitle: "Bing luchtfoto's met labels"
     },    
 
+    "gxp.plugins.BingChineseSource.prototype": {
+        title: "Chinese Bing Layers",
+        roadTitle: "Chinese Bing Roads"
+    },
+
     "gxp.plugins.FeatureEditor.prototype": {
         createFeatureActionTip: "Maak een nieuw object",
         editFeatureActionTip: "Wijzig een bestand object"

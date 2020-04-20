@@ -337,6 +337,7 @@ Group: OpenLayers  {
       File: ArcGIS93Rest  (no auto-title, OpenLayers/Layer/ArcGIS93Rest.js)
       File: ArcIMS  (no auto-title, OpenLayers/Layer/ArcIMS.js)
       File: Bing  (no auto-title, OpenLayers/Layer/Bing.js)
+      File: BingChinese  (no auto-title, OpenLayers/Layer/BingChinese.js)
       File: Boxes  (no auto-title, OpenLayers/Layer/Boxes.js)
       File: EventPane  (no auto-title, OpenLayers/Layer/EventPane.js)
       File: FixedZoomLevels  (no auto-title, OpenLayers/Layer/FixedZoomLevels.js)

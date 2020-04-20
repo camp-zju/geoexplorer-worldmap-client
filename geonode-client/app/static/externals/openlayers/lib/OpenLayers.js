@@ -185,6 +185,7 @@
                 "OpenLayers/Layer/UTFGrid.js",
                 "OpenLayers/Layer/OSM.js",
                 "OpenLayers/Layer/Bing.js",
+                "OpenLayers/Layer/BingChinese.js",
                 "OpenLayers/Layer/TMS.js",
                 "OpenLayers/Layer/TileCache.js",
                 "OpenLayers/Layer/Zoomify.js",

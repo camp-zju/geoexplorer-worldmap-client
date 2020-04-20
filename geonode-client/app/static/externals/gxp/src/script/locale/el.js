@@ -28,6 +28,11 @@ GeoExt.Lang.add("el", {
         labeledAerialTitle: "Εναέριες Bing με Ετικέτες"
     },
 
+    "gxp.plugins.BingChineseSource.prototype": {
+        title: "Chinese Bing Layers",
+        roadTitle: "Chinese Bing Roads"
+    },
+
     "gxp.plugins.FeatureEditor.prototype": {
         splitButtonText: "Edit",
         createFeatureActionText: "Create",
