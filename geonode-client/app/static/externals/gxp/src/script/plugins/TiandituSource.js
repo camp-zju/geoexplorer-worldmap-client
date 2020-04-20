@@ -8,7 +8,6 @@
 
 /**
  * @requires plugins/LayerSource.js
- * @requires OpenLayers/Layer/Tianditu/v3.js
  */
 
 /** api: (define)
@@ -81,10 +80,10 @@ gxp.plugins.TiandituSource = Ext.extend(gxp.plugins.LayerSource, {
      *  A descriptive title for this layer source (i18n).
      */
     title: "Tianditu Layers",
-    tiandituroadAbstract: "Show tiandituRoad",
-    tiandituimageAbstract: "Show tiandituImage",
-    tiandituterrainAbstract: "Show tiandituTerrain",
-    tiandituannotationAbstract: "Show tiandituAnnotation",
+    tiandituroadAbstract: "Show Tianditu Road",
+    tiandituimageAbstract: "Show Tianditu Image",
+    tiandituterrainAbstract: "Show Tianditu Terrain",
+    tiandituannotationAbstract: "Show Tianditu Annotation",
     tiandituroadTitle: "Tianditu Road",
     tiandituimageTitle: "Tianditu Image",
     tiandituterrainTitle: "Tianditu Terrain",
